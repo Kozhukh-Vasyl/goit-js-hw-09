@@ -1,5 +1,5 @@
   {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://Kozhukh-Vasyl.github.io/goit-js-hw-09",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/goit-js-hw-09.git"
+    "url": "git+https://github.com/Kozhukh-Vasyl/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Kozhukh Vasyl <v.kozhukh@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/goit-js-hw-09/issues"
+    "url": "https://github.com/Kozhukh-Vasyl/goit-js-hw-09/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
